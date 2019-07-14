@@ -5,7 +5,11 @@ h4 {
    font-family: monotype corsiva regular
    font-style: italic;
 }
+html {
+   height: 25%;
+   background-color: orange;
+}
 body {
-    height: 100%;
-    background: linear-gradient(90deg, #FFC0CB 50%, #00FFFF 50%);
+   height: 75%;
+   background-color: white;
 }
