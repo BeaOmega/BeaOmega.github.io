@@ -5,6 +5,6 @@ h4 {
    font-family: freestyle script
    font-style: italic;
 }
-body {
+html, body {
    background-color: grey
 }
