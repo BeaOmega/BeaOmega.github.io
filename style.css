@@ -1,13 +1,14 @@
 p {
    color: pink; 
 }
-h4 {
-   font-family: monotype corsiva regular
-   font-style: italic;
+.column {
+  float: left;
+  width: 50%;
 }
-html, head {
-   height: 100%;
-   background-color: grey;
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 
