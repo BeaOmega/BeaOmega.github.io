@@ -6,5 +6,6 @@ h4 {
    font-style: italic;
 }
 html, body {
-   background-color: #ffebcd
+    height: 25%;
+    background: linear-gradient(90deg, #FFC0CB 50%, #00FFFF 50%);
 }
