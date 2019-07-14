@@ -2,6 +2,6 @@ p {
    color: blue; 
 }
 h4 {
-   text-decoration: underline;
-   color: grey
+   font-family: Cursive
+   font-style: italic;
 }
