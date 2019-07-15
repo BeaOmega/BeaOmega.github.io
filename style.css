@@ -4,7 +4,7 @@ p {
 .column {
   float: left;
   width: 50%;
-  height: 500%;
+  height: 2000%;
 }
 
 .row:after {
