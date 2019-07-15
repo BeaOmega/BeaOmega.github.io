@@ -2,7 +2,7 @@ p {
    color: black; 
 }
 .column {
-  float: left;
+  float: right;
   height: 2000px; 
 }
 
