@@ -3,9 +3,9 @@ p {
 }
 .column {
   float: left;
-  padding: 10%
+  padding: 25%
   height: 3000px; 
-  width: 30%;
+  width: 25%;
 }
 .right {
   width: 75%;
