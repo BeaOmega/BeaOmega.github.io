@@ -10,14 +10,9 @@ p {
 }
 
 .right {
-  width: 75%;
+  width: 85%;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 
 
