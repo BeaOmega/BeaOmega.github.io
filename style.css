@@ -3,14 +3,15 @@ p {
 }
 .column {
   float: left;
-  width: 20%;
-}
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+  padding:10px;
+  height: 300px; 
 }
 
+.left {
+  width: 25%;
+}
 
-
+.right {
+  width: 75%;
+}
 
