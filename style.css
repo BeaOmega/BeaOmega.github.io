@@ -3,7 +3,6 @@ p {
 }
 .column {
   float: left;
-  padding: 25%
   height: 3000px; 
   width: 25%;
 }
