@@ -3,7 +3,16 @@ p {
 }
 .column {
   float: left;
-  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
 }
 
 .row:after {
@@ -11,5 +20,6 @@ p {
   display: table;
   clear: both;
 }
+
 
 
