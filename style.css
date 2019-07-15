@@ -4,7 +4,7 @@ p {
 .column {
   float: left;
   padding:10px;
-  height: 2000px; 
+  height: 400px; 
 }
 
 .left {
@@ -14,6 +14,7 @@ p {
 .right {
   width: 75%;
 }
+
 .row:after {
   content: "";
   display: table;
