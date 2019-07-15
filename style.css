@@ -6,18 +6,11 @@ h4 {
 }
 .column {
   float: left;
-  height: 4000px;
+  width: 50%;
 }
 
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
-}
-
-.row:right {
+/* Clear floats after the columns */
+.row:after {
   content: "";
   display: table;
   clear: both;
