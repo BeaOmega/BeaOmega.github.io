@@ -5,9 +5,9 @@ h4 {
    background-color: #aaa
 }
 .column {
-  float: left;
+  float: right;
   height: 2000px
-  width: 50%;
+  width: 75%;
 }
 .row:after {
   content: "";
