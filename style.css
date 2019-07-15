@@ -3,14 +3,7 @@ p {
 }
 .column {
   float: left;
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
+  width: 50%;
 }
 
 .row:after {
