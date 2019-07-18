@@ -5,14 +5,10 @@ h4 {
    background-color: #aaa
 }
 .column {
-  float: right;
+  float: center;
   height: 2000px
   width: 75%;
 }
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 
 
